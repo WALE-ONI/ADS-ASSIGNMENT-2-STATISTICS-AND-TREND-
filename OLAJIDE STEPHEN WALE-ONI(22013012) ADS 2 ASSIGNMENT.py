@@ -209,4 +209,3 @@ plt.xlabel('CO2 emissions (kt) for China')
 plt.ylabel('Urban population for China')
 plt.savefig('scatter plot for china', dpi=300)
 plt.show()
-#EXITS
